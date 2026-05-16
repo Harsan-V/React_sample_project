@@ -1,2 +1,2 @@
 # React_sample_project
-React practice projects are here
+React practice projects that i have practiced using react with java script are here
